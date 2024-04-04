@@ -1,1 +1,10 @@
+first line is coming always first
+
 project practice line1
+
+
+//these changes are made by fahri
+
+// .....
+
+//conflict will be happening
