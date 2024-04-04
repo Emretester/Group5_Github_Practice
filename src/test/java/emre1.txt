@@ -4,6 +4,11 @@ project practice line1
 
 ı write line2
 
+// I am updating in second branch
+
+//branch name is fahri2
+
+//eyup has already added some information
 
 
 //these changes are made by fahri
