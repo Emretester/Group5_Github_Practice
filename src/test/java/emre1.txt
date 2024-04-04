@@ -1,2 +1,14 @@
+first line is coming always first
+
 project practice line1
+
 ı write line2
+
+
+
+//these changes are made by fahri
+
+// .....
+
+//conflict will be happening
+
